@@ -17,4 +17,4 @@ Notes:
 
 Special thanks to:
 - 0kepOnline for ideas for designing thumbnails of tools!
-- Max Games R.S.[/b] for his mod, which inspired me to create my own mod!
+- Max Games R.S. for his mod, which inspired me to create my own mod!
